@@ -1,7 +1,7 @@
 # Day-1: Get Started with Azure AI Services
 
 📚 **Bootcamp Session**: AI-102 - Get Started with Azure AI Services  
-🎓 **Conducted By**: Saurav Raghuvanshi (Azure PaaS Engineer @ Microsoft)  
+🎓 **Delivered By**: Saurav Raghuvanshi (Azure PaaS Engineer @ Microsoft)  
 🗓️ **Date**: 13th October, 2024  
 📺 **Session Recording**: [Watch on YouTube](https://www.youtube.com/live/Wb4nzibutiM)
 
