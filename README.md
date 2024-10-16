@@ -1,7 +1,7 @@
 # Day-1: Get Started with Azure AI Services
 
 📚 **Bootcamp Session**: AI-102 - Get Started with Azure AI Services  
-🎓 **Delivered By**: Saurav Raghuvanshi (Azure PaaS Engineer @ Microsoft)  
+🎓 **Speaker**: Saurav Raghuvanshi (Azure PaaS Engineer @ Microsoft)  
 🗓️ **Date**: 13th October, 2024  
 📺 **Session Recording**: [Watch on YouTube](https://www.youtube.com/live/Wb4nzibutiM)
 
@@ -9,76 +9,92 @@
 
 ## 📖 Introduction
 
-This repository contains materials and notes from **Day-1** of the **AI-102 Bootcamp** on **Azure AI Services**. The session covered the basics of Azure's AI offerings and provided practical insights on how to use them. Below are my notes, learnings, and key takeaways from the session.
+Welcome to the **AI-102 Bootcamp**, a comprehensive series designed to help you dive deep into **Azure AI Services**. This bootcamp will guide you through various aspects of artificial intelligence, including natural language processing, computer vision, decision support systems, and much more—all using the power of Azure.
+
+Each day, we will cover essential topics to enhance your understanding of AI and provide hands-on experience with Azure’s cutting-edge AI tools and services. Whether you’re a beginner or an experienced developer, this bootcamp is tailored to offer valuable insights and practical knowledge to take your AI skills to the next level.
 
 ---
 
 ## 🎯 Key Learnings from Day-1
 
-### 1. **Understanding Azure AI Services**
-   Azure AI Services offer a range of pre-built AI solutions to help developers without extensive machine learning knowledge. Some of the major services include:
-   - **Azure Cognitive Services**: APIs for vision, speech, language, and decision-making tasks.
-   - **Azure Machine Learning**: Create, deploy, and manage machine learning models at scale.
-   - **Azure OpenAI Service**: Leverage powerful language models like GPT in your applications.
+### 1. **What is AI?**
+   - AI refers to capabilities that enable software to exhibit human-like functions such as:
+     - **Visual Perception** (e.g., object detection)
+     - **Speech** (e.g., speech-to-text conversion)
+     - **Decision Making** (e.g., recommendation systems)
+     - **Text Analysis & Conversations** (e.g., sentiment analysis)
+     - **Generating Text & Images** (e.g., using Generative AI like GPT models)
 
-### 2. **Real-world Applications of Azure AI**
-   - **Vision**: Tasks such as face detection, object recognition, and scene understanding.
-   - **Speech**: Converting text to speech, recognizing spoken words, or translating speech.
-   - **Language**: Tools for understanding text, analyzing sentiment, and translating languages.
-   - **Decision**: Services for personalizing content, recommendations, or automating decisions.
+   > **AI -> Machine Learning (ML) -> Deep Learning -> Generative AI**
 
-### 3. **Core Concepts of Azure AI**
-   - **Pre-built AI Models**: Azure provides modular, ready-to-use AI models.
-   - **Scalability**: Easily scale AI applications depending on demand with Azure’s cloud infrastructure.
+### 2. **AI Model Lifecycle**
+   - Understanding the stages from data collection, model training, deployment, and continuous monitoring.
+   
+   *Explore more on AI lifecycle in my blog linked above!*
+
+### 3. **Responsible AI and Ethics**
+   - **Fairness**: Ensuring AI treats all groups fairly.
+   - **Reliability & Safety**: Creating robust and safe AI systems.
+   - **Privacy & Security**: Safeguarding data and user information.
+   - **Inclusiveness**: Making AI accessible to all.
+   - **Transparency & Accountability**: Ensuring clear, explainable models.
+     
+### 4. **Types of Azure AI Services**
+   - **Natural Language Processing (NLP)**
+   - **Knowledge Mining & Document Intelligence**
+   - **Computer Vision**
+   - **Decision Support**
+   - **Generative AI** *(overview)*
+
+### 5. **Provisioning Azure AI Services**
+   - You can create AI resources in two ways:
+     - **Single-Service Instance**: Create one service at a time (e.g., Speech service).
+     - **Multi-Service Instance**: Bundle multiple AI services in a single resource.
+
+   > Demo: We created a Speech service instance in seconds and played with its capabilities on the Azure Portal.
+
+### 6. **Securing Azure AI Services**
+   - **Authentication**: Protect AI services using Azure Key Vault and token-based authentication.
+   - **Network Security**: Secure services with virtual networks, firewalls, and private endpoints.
+
+   > Demo: Generated secure keys for Azure AI services and stored them in Azure Key Vault.
+
+### 7. **Deploying AI in Containers**
+   - Discussed scenarios where AI services can be deployed via Docker containers for private use.
+   
+   > Demo: Deployed an AI service in a container instance using Azure Container Instances.
+
+### 8. **Monitoring Azure AI Services**
+   - **Azure Monitor**: Track logs, monitor performance, and create action groups for alerts.
+
+   > Demo: Showed how to view logs, metrics, and configure action groups in Azure Monitor.
 
 ---
 
-## 📚 Learnings from My End
+## 🔧 Hands-on Labs
 
-Some of my personal learnings and reflections from **Day-1** of the bootcamp:
-
-### 1. **User-Friendly and Quick Setup**
-   - The session demonstrated how easy it is to integrate **Cognitive Services** APIs into apps. With just a few clicks in the Azure portal and minimal coding, AI features like text analysis and image recognition can be added quickly.
-
-### 2. **Real-world Use Cases**
-   - I was amazed by how **Text Analytics** can analyze customer sentiment or extract key phrases from text, making it incredibly useful for applications like feedback analysis or document processing automation.
-
-### 3. **Hands-on Demonstration**
-   - During the hands-on part, we explored using the **Text Analytics** API in Python, and it showed me how simple it is to call these APIs to perform powerful tasks with just a few lines of code.
+- **Lab 1**: Provisioning Azure AI services. 
+  - Learn more and try it yourself [here](https://github.com/MicrosoftLearning/mslearn-ai-services).
+- **Lab 2**: Text analytics using Azure AI.
+  - Code walkthrough to interact with AI services via API.
 
 ---
 
-## 📷 Session Photos
+## 📷 Session Highlights
 
-Here are some highlights from the session:
+Here are some snapshots from the session:
 
-![Session Photo 1](path/to/photo1.jpg)  
-*Caption: Saurav Raghuvanshi explaining Azure Cognitive Services.*
+![Session Demo](path/to/photo1.jpg)  
+*Caption: Creating Speech Service Instance on Azure Portal*
 
-![Session Photo 2](path/to/photo2.jpg)  
-*Caption: Practical demonstration of Text Analytics API.*
-
-![Session Photo 3](path/to/photo3.jpg)  
-*Caption: Hands-on lab where we created our first Cognitive Service.*
-
----
-
-## 💻 Hands-on Labs
-
-### Lab 1: **Creating and Using a Cognitive Service**
-   This exercise involved creating a **Cognitive Service Resource** and making requests using Python.
-
-### Lab 2: **Text Analytics with Azure AI**
-   This lab focused on using **Text Analytics** to analyze text sentiment and extract key phrases.
+![Code Walkthrough](path/to/photo2.jpg)  
+*Caption: Code Explanation for Backend AI Service Integration*
 
 ---
 
 ## 📖 Additional Resources
 
 - [Microsoft Learn - AI-102 Exam Overview](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-engineer/?practice-assessment-type=certification)  
-- [Azure Cognitive Services Documentation](https://learn.microsoft.com/en-us/azure/cognitive-services/)  
-- [Azure Machine Learning Documentation](https://learn.microsoft.com/en-us/azure/machine-learning/)  
-- [Azure OpenAI Documentation](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/overview)
 
 ---
 
