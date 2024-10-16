@@ -28,6 +28,7 @@ For further reading, check out my blog on **AI & ML Basics**: [My AI Kickstart B
      - **Generating Text & Images** (e.g., using Generative AI like GPT models)
 
    > **AI -> Machine Learning (ML) -> Deep Learning -> Generative AI**
+
 ![Session Demo](https://github.com/unnati14ag/Azure-AI-Engineer-Associate-AI-102-Bootcamp/blob/main/Day-1/day1.2.png) 
 
 ### 2. **AI Model Lifecycle**
@@ -50,12 +51,14 @@ For further reading, check out my blog on **AI & ML Basics**: [My AI Kickstart B
    - **Computer Vision**
    - **Decision Support**
    - **Generative AI** *(overview)*
+
 ![Session Demo](https://github.com/unnati14ag/Azure-AI-Engineer-Associate-AI-102-Bootcamp/blob/main/Day-1/day1.3.png) 
 
 ### 5. **Provisioning Azure AI Services**
    - You can create AI resources in two ways:
      - **Single-Service Instance**: Create one service at a time (e.g., Speech service).
      - **Multi-Service Instance**: Bundle multiple AI services in a single resource.
+
 ![Session Demo](https://github.com/unnati14ag/Azure-AI-Engineer-Associate-AI-102-Bootcamp/blob/main/Day-1/day1.4.png) 
 
    > Demo: We created a Speech service instance in seconds and played with its capabilities on the Azure Portal.
@@ -63,12 +66,14 @@ For further reading, check out my blog on **AI & ML Basics**: [My AI Kickstart B
 ### 6. **Securing Azure AI Services**
    - **Authentication**: Protect AI services using Azure Key Vault and token-based authentication.
    - **Network Security**: Secure services with virtual networks, firewalls, and private endpoints.
+
 ![Session Demo](https://github.com/unnati14ag/Azure-AI-Engineer-Associate-AI-102-Bootcamp/blob/main/Day-1/day1.6.png) 
 
    > Demo: Generated secure keys for Azure AI services and stored them in Azure Key Vault.
 
 ### 7. **Deploying AI in Containers**
    - Discussed scenarios where AI services can be deployed via Docker containers for private use.
+
 ![Session Demo](https://github.com/unnati14ag/Azure-AI-Engineer-Associate-AI-102-Bootcamp/blob/main/Day-1/day1.7.png) 
    
    > Demo: Deployed an AI service in a container instance using Azure Container Instances.
