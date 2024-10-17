@@ -7,3 +7,19 @@ Each day, we will cover essential topics to enhance your understanding of AI and
 For further reading, check out my blog on **AI & ML Basics**: [My AI Kickstart Blog](https://medium.com/@agarwalunnati0/my-kickstart-into-the-world-of-artificial-intelligence-machine-learning-5223deb904fe).
 
 ---
+
+## 📖 Additional Resources
+
+- [Microsoft Learn - AI-102 Exam Overview](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-engineer/?practice-assessment-type=certification)  
+
+---
+
+### For more follow:- [Azure Developer Community Dehradun](https://linktr.ee/azdevdehradun)
+
+---
+
+## 💬 Discussion & Contributions
+
+Feel free to start a discussion or submit a pull request if you'd like to contribute!
+
+---
