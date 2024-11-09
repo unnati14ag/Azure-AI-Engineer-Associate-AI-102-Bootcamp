@@ -9,6 +9,8 @@ Welcome to **Day-2** of the AI-102 Bootcamp! In today's session, led by Aditya P
 ## 📖 **What is Azure AI Vision?**
 Azure AI Vision is a service that enables developers to integrate computer vision capabilities into their applications with ease. From object detection to OCR, Azure AI Vision simplifies complex image and video analysis processes, making it accessible to all developers.
 
+![Demo Session Overview](https://github.com/unnati14ag/Azure-AI-Engineer-Associate-AI-102-Bootcamp/blob/main/Day-2/day2.1.png)
+
 ---
 
 ## 🌐 **Topics Covered**
@@ -61,10 +63,8 @@ For a more in-depth learning experience, explore these official Microsoft resour
 ## 📸 **Session Snapshots**
 Below are a few images from our hands-on demo and key moments:
 
-![Demo Session Overview](assets/demo_session_overview.jpg)
-![Aditya Pandey presenting](assets/aditya_pandey_presentation.jpg)
-
-*(Ensure to upload your images to an "assets" folder in this repository and adjust the paths accordingly.)*
+![Aditya Pandey presenting](https://github.com/unnati14ag/Azure-AI-Engineer-Associate-AI-102-Bootcamp/blob/main/Day-2/day2.2.png)
+![Aditya Pandey presenting](https://github.com/unnati14ag/Azure-AI-Engineer-Associate-AI-102-Bootcamp/blob/main/Day-2/day2.3.png)
 
 ---
 
